@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "3b00728aa97ad1a2581d414bd9d650bc",
+      "css": "heart",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "c91098f07ff0df45b3f8666b72b75801",
+      "css": "phone",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "b6ef4443ecc502136135437837d9724b",
+      "css": "mail",
+      "code": 59394,
+      "src": "elusive"
+    },
+    {
+      "uid": "ffb02185b42f9e8e0272836403d47083",
+      "css": "arrow",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M452.8 687.5L640.3 500 452.8 312.5",
+        "width": 1000
+      },
+      "search": [
+        "arrow"
+      ]
+    }
+  ]
+}
